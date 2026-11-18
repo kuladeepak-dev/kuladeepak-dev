@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm <Kuladeepak> 👋
 
-<!--
-**kuladeepak-dev/kuladeepak-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech (AIML), 2nd year at SRKR Engineering College, Bhimavaram.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building ML projects end to end: data, modelling, deployment
+- Solving DSA problems daily on LeetCode (Python)
+- 6-month goal: 150 LeetCode problems + 2 deployed ML projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+Python · Data Structures & Algorithms · Machine Learning · SQL
+
+## Find me
+LeetCode: <https://leetcode.com/u/kuladeepak-dev/> · HackerRank: <https://www.hackerrank.com/profile/kuldeepch711>
